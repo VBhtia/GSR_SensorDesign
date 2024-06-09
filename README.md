@@ -1,7 +1,5 @@
 # GSR Sensor Design
 
-![](https://github.com/VBhtia/GSR_SensorDesign/blob/master/GSR_Circuit.png)
-
 The complete circuit for Galvanic Skin Response Sensor consists of four stages :
 
 1. Wheatstone Bridge 
